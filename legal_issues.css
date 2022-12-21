@@ -1,0 +1,14 @@
+* {
+  background-color: green;
+}
+
+h1 {
+  text-align: center;
+  color: white;
+  font-family: 'Bevan', cursive;
+}
+
+p {
+  color: white;
+  font-family: 'Roboto Slab', serif;
+}
